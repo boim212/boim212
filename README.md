@@ -2,9 +2,9 @@
 <p><em>I am a student from one of <a href="#">the Universities in Yogyakarta</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Back-End Web Developer from <a href="#">Lampung</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href='https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/dakuenjeru02?t=mD-Ef1_AwSFVULg1Q-Bnow&s=09'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://github.com/boim212'><img alt="github" src="https://img.shields.io/github/followers/thaiane?label=follow&style=social" height='18px'/></a>
+<a href='https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/boim212/boim212/main/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/dakuenjeru02?t=mD-Ef1_AwSFVULg1Q-Bnow&s=09'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/boim212/boim212/main/twitter.svg" height='18px'/></a>
+<a href='https://github.com/boim212'><img alt="github" src="https://raw.githubusercontent.com/boim212/boim212/main/thaiane.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different topic (Back-End Web Developer, a little Front-End Developer 🌐, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
