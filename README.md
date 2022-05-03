@@ -28,6 +28,7 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 <br>
 
 ### 🔨 Languages and Tools:
+
 <!-- <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>  -->
 <!-- <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>  -->
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -41,7 +42,8 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 <!-- <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/>  </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/boim212/boim212/main/laravel-2.svg" alt="laravel" height='42px'/> </a>
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/boim212/boim212/main/laravel-2.svg" alt="laravel" height='40px'/> </a>
+
 
 
 
