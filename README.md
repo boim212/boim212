@@ -11,7 +11,7 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/boim212/boim212/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
