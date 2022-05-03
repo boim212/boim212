@@ -1,7 +1,7 @@
 "WELCOME IN MY REPOSITORY GIT HUB"
-- 👋 Hi, I’m @boim212
+- 👋 Hi, I’m @boim212 or you can call me Yudha
 - 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning java programing and Laravel 8.
+- 🌱 I’m currently learning java programing and Laravel 8-9.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on bimaboim7@gmail.com
 
