@@ -20,7 +20,7 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 - 🌱 &nbsp; I’m currently learning Java, Laravel, Python; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/boim212?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227), [WhatssApp](wa.me/83160890310) and bimaboim10@gmail.com 
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227), [WhatssApp](https://wa.me/83160890310) and bimaboim10@gmail.com 
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
 <!-- - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read -->
 
