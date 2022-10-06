@@ -44,10 +44,46 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/boim212/boim212/main/laravel-2.svg" alt="laravel" height='40px'/> </a>
 
 
-
-
 <br>
-
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
+<p align="center">
+  <div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227">
+        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://github.com/boim212">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://github.com/YudhaDevelops">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://github.com/YuIsCode">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19931913/happy-ngoding?tab=profile">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+     </a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/yudhadevelops">
+        <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yudhas____/">
+        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dakuenjeru02?t=mD-Ef1_AwSFVULg1Q-Bnow&s=09">
+        <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
+     </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC7rdusxKbmMiExUaD369p5A">
+        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
+     </a>
+     <!--<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+        <img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
+     </a> -->
+    </div>
+</p>
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
 
 
 <!-- ### 🛠️ My Projects -->
