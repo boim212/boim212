@@ -64,7 +64,7 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
      </a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/yudhadevelops">
-        <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
+        <img src="https://i.ibb.co/0C3GjDb/dev-to2.png">
      </a>
      <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yudhas____/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
