@@ -25,6 +25,22 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 <!-- - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read -->
 
 <br>
+## Berdonasi
+Support untuk tetap dapat memberikan tutorial dengan cara berdonasi.
+
+<div>
+<details>
+ <summary>:coffee: Traktir kopi</summary>
+</br>
+
+<a href="https://trakteer.id/yudhasdev/tip"><img src="https://img.shields.io/static/v1?label=Trakteer-VIP&message=yudhasDev&color=C02433"></a>
+<a href="https://trakteer.id/yudhasdev/"><img src="https://img.shields.io/static/v1?label=Trakteer&message=yudhasDev&color=C02433"></a>
+
+<a href="https://saweria.co/yudhasDev"><img src="https://img.shields.io/static/v1?label=Saweria&message=yudhasDev&color=FAAE2B"></a>
+
+</details>
+</div>
+<br>
 
 ### 🔨 Languages and Tools:
 
